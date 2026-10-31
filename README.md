@@ -1,14 +1,14 @@
-🧬 Sequencing Analysis Portfolio
+# Sequencing Analysis Portfolio
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Learning-blue)
 ![Sanger](https://img.shields.io/badge/Sanger%20Sequencing-In%20Progress-yellow)
 ![NGS](https://img.shields.io/badge/NGS%20Analysis-Planned-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 > **Bioinformatics | Molecular Biology | Sanger Sequencing | Next-Generation Sequencing**
 ---
-## 📖 About This Repository
+##  About This Repository
 This repository documents my practical learning and projects in sequencing analysis and bioinformatics. My focus is on understanding sequencing technologies, analysing DNA sequence data, learning bioinformatics tools, and interpreting genomic results.
 ---
-## 📑 Table of Contents
+##  Table of Contents
 - [Learning Objectives](#-learning-objectives)
 - [Tools and Technologies](#-tools-and-technologies)
 - [Projects](#-projects)
@@ -16,7 +16,7 @@ This repository documents my practical learning and projects in sequencing analy
 - [Learning Approach](#-learning-approach)
 - [Author](#-author)
 ---
-## 🎯 Learning Objectives
+##  Learning Objectives
 - [ ] Understand Sanger sequencing chromatograms
 - [ ] Perform DNA sequence editing and quality assessment
 - [ ] Learn sequence alignment and database searching
@@ -24,7 +24,7 @@ This repository documents my practical learning and projects in sequencing analy
 - [ ] Practise read trimming and reference genome alignment
 - [ ] Learn variant calling and genomic interpretation
 ---
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 | Category | Tools |
 |----------|-------|
 | **Sanger Sequencing** | Chromas, FinchTV, DNA Baser, NCBI BLAST, MEGA |
@@ -35,21 +35,21 @@ This repository documents my practical learning and projects in sequencing analy
 | **Databases and Platforms** | NCBI, Ensembl, Galaxy |
 | **Programming** | Python, R |
 ---
-## 🔬 Projects
+##  Projects
 ### 1. Sanger Sequencing Analysis
-**Status:** 🟡 In progress
+**Status:** In progress
 - Chromatogram interpretation
 - Base calling and sequence quality assessment
 - Sequence editing and trimming
 - BLAST analysis
 ### 2. NGS Data Analysis
-**Status:** ⚪ Planned
+**Status:**  Planned
 - FASTQ quality control
 - Adapter trimming
 - Reference genome alignment
 - Variant calling and interpretation
 ---
-## 📂 Repository Structure
+##  Repository Structure
 ```
 sequencing-analysis-portfolio/
 ├── sanger-sequencing/
@@ -64,10 +64,10 @@ sequencing-analysis-portfolio/
 ```
 > The structure will be updated as projects progress.
 ---
-## 📚 Learning Approach
+##  Learning Approach
 This portfolio uses publicly available reference sequences and sequencing datasets for educational and independent bioinformatics practice.
 ---
-## 👩‍🔬 Author
+##  Author
 **Sushmita Sinha**
 MSc Biotechnology | Research Assistant | Molecular Biology and Bioinformatics
  Connect with me: [LinkedIn](https://www.linkedin.com/in/sushmita-sinha-bb3729271/) · [Email](sushmita2395sinha@gmail.com)
