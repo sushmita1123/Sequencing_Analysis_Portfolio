@@ -27,4 +27,4 @@ Publicly available Sanger sequencing data.
 ##  Status
  **In progress**
 ---
-(../README.md)
+(README.md)
